@@ -26,4 +26,4 @@ package Encapsulacion;
 	    }
 	}
 
-
+//Ejercicio 4 completado 
