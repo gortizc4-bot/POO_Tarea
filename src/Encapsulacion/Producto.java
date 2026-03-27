@@ -20,6 +20,7 @@ public class Producto {
 		        System.out.println(nombre + " (" + codigo + ") - Precio: Q" + precio);
 		    }
 		}
+//Ejercicio 3 completado 
 	
 
 
