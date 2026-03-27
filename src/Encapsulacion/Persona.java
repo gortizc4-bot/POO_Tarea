@@ -14,4 +14,5 @@ public class Persona {
     public void mostrar() {
         System.out.println("Nombre: " + nombre + " " + apellido + " | Edad: " + edad);
     }
+ // Ejercicio 1 completado
 }
