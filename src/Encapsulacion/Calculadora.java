@@ -25,4 +25,4 @@ public class Calculadora {
 	}
 	
 
-
+//Ejercicio 6 completado 
